@@ -1,9 +1,12 @@
+
 {
-  "version": "1.0.0",
-  "version_code": 1,
+  "version": "1.1.0",
+  "version_code": 2,
   "mandatory": false,
-  "download_url": "",
+  "download_url": "PASTE_APK_DOWNLOAD_URL_HERE",
   "changelog": [
-    "Initial update system setup."
+    "Initial public release of the SVCI Navigation Game updater.",
+    "Updated release signing configuration.",
+    "Improved version tracking."
   ]
 }
