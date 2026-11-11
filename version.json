@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "version_code": 1,
+  "mandatory": false,
+  "download_url": "",
+  "changelog": [
+    "Initial update system setup."
+  ]
+}
