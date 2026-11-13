@@ -3,7 +3,7 @@
   "version": "1.3.1",
   "version_code": 5,
   "mandatory": false,
-  "download_url": "https://github.com/nightmarepalace/svci-game-updates/releases/download/v1.3.0/SVCI_Navigation_Game_v1.3.1.apk",
+  "download_url": "https://github.com/nightmarepalace/svci-game-updates/releases/download/v1.3.1/SVCI_Navigation_Game_v1.3.1.apk",
   "changelog": [
     "Initial public release of the SVCI Navigation Game updater.",
     "Introduced version tracking.",
